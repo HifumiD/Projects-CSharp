@@ -1,0 +1,32 @@
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.exe
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.deps.json
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\bin\Debug\net5.0\ARRAYS.pdb
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\refint\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.pdb
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ARRAYS.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\ARRAYS\ARRAYS\obj\Debug\net5.0\ref\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.exe
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.deps.json
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\bin\Debug\net5.0\ARRAYS.pdb
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\refint\ARRAYS.dll
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.pdb
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ARRAYS.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Program check for int string bool\ARRAYS\obj\Debug\net5.0\ref\ARRAYS.dll

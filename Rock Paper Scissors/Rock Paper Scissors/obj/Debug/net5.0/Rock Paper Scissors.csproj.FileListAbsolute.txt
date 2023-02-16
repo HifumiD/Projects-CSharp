@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.exe
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.deps.json
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.dll
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net5.0\Rock Paper Scissors.pdb
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.dll
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\refint\Rock Paper Scissors.dll
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.pdb
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\Rock Paper Scissors.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net5.0\ref\Rock Paper Scissors.dll

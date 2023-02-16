@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.exe
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.deps.json
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.dll
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\bin\Debug\net5.0\Time Calculator.pdb
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.dll
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\refint\Time Calculator.dll
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.pdb
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\Time Calculator.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Time Calculator\Time Calculator\obj\Debug\net5.0\ref\Time Calculator.dll

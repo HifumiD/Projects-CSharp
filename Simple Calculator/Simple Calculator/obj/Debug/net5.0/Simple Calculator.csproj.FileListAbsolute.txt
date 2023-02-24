@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.exe
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.deps.json
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.dll
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\bin\Debug\net5.0\Simple Calculator.pdb
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.dll
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\refint\Simple Calculator.dll
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.pdb
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\Simple Calculator.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Simple Calculator\Simple Calculator\obj\Debug\net5.0\ref\Simple Calculator.dll

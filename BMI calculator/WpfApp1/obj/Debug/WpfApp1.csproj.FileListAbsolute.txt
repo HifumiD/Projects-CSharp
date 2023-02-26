@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+X:\Programas\Visual Studio\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

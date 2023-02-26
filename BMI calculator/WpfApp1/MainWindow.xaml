@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="BMI Calculator" Height="350" Width="400">
+    <Grid>
+        <Label Content="BMI Calculator" FontSize="30" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold SemiCondensed"/>
+        <Label x:Name="label2" Content="Height " FontSize="30" HorizontalAlignment="Left" Margin="32,179,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold SemiCondensed"/>
+        <Label x:Name="label1" Content="Weight " FontSize="30" HorizontalAlignment="Left" Margin="32,113,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold SemiCondensed"/>
+
+        <TextBox x:Name="txtweight" HorizontalAlignment="Left" Margin="148,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52"/>
+        <TextBox x:Name="txtheight" HorizontalAlignment="Left" Margin="147,193,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52" RenderTransformOrigin="0.519,0.67"/>
+        <TextBox x:Name="txtresult" HorizontalAlignment="Left" Margin="147,293,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52" RenderTransformOrigin="0.519,0.67"/>
+
+        <Button x:Name="button1" Content="Calculate" HorizontalAlignment="Left" Margin="288,155,0,0" VerticalAlignment="Top" Height="40" Width="84" Click="Button_Click" FontFamily="Consolas">
+            <Button.Background>
+                <ImageBrush ImageSource="/11135411-a-doctor-with-a-stethoscope-and-a-thumbs-up-sign.jpg" Stretch="Uniform" TileMode="FlipY"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="labelresult" FontSize="20" Content="Result" HorizontalAlignment="Left" Margin="36,285,0,0" VerticalAlignment="Top" FontFamily="Felix Titling"/>
+
+        <Button x:Name="btnreset" Content="Reset" HorizontalAlignment="Left" Margin="300,288,0,0" VerticalAlignment="Top" Click="Reset" FontFamily="Britannic Bold"/>
+        <Button x:Name="btnexit" Content="Exit" HorizontalAlignment="Left" Margin="349,288,0,0" VerticalAlignment="Top" Click="Exit" FontFamily="Roland"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.exe
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.deps.json
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.dll
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\bin\Debug\net5.0\Genshin Puzzle 1.pdb
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.dll
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\refint\Genshin Puzzle 1.dll
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.pdb
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\Genshin Puzzle 1.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle 1\Genshin Puzzle 1\obj\Debug\net5.0\ref\Genshin Puzzle 1.dll

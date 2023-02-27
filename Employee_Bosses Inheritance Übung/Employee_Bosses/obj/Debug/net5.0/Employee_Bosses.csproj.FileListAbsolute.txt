@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.exe
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.deps.json
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.dll
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\bin\Debug\net5.0\Employee_Bosses.pdb
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.dll
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\refint\Employee_Bosses.dll
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.pdb
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\Employee_Bosses.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Employee_Bosses\Employee_Bosses\obj\Debug\net5.0\ref\Employee_Bosses.dll

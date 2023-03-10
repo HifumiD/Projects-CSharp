@@ -1,0 +1,20 @@
+﻿<Window x:Class="Genshin_Puzzle_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Genshin_Puzzle_WPF"
+        mc:Ignorable="d"
+        Title="Genshin Puzzle" Height="450" Width="710">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/17c60636eb481159045248fc7c2421c4.jpg"/>
+        </Grid.Background>
+        <Button x:Name="button1" Foreground="#FFC81AC8" Content="Button1" HorizontalAlignment="Left" Margin="140,60,0,0" VerticalAlignment="Top" Click="Button_Click1" Height="98" Width="114" BorderBrush="#FF8241E6" FontSize="24" />
+        <Button x:Name="button2" Foreground="#FFC81AC8" Content="Button2" HorizontalAlignment="Left" Margin="458,60,0,0" VerticalAlignment="Top" Click="Button_Click2" Height="98" Width="114" BorderBrush="#FF8241E6" FontSize="24" />
+        <Button x:Name="button3" Foreground="#FFC81AC8"  Content="Button3" HorizontalAlignment="Left" Margin="140,250,0,0" VerticalAlignment="Top" Click="Button_Click3" Height="98" Width="114" BorderBrush="#FF8241E6" FontSize="24"/>
+        <Button x:Name="button4" Foreground="#FFC81AC8" Content="Button4" HorizontalAlignment="Left" Margin="458,250,0,0" VerticalAlignment="Top" Click="Button_Click4" Height="98" Width="114"  BorderBrush="#FF8241E6" FontSize="24" />
+        <Button x:Name="startButton" Content="Restart" HorizontalAlignment="Left" Margin="24,383,0,0" VerticalAlignment="Top" Click="startClick" Height="30" Width="62" Background="{x:Null}" FontFamily="Arial Black"/>
+
+    </Grid>
+</Window>

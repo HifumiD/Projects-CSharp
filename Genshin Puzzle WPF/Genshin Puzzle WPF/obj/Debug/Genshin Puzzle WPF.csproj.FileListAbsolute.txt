@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\bin\Debug\Genshin Puzzle WPF.exe.config
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\bin\Debug\Genshin Puzzle WPF.exe
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\bin\Debug\Genshin Puzzle WPF.pdb
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.csproj.SuggestedBindingRedirects.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\MainWindow.g.cs
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\App.g.cs
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF_MarkupCompile.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF_MarkupCompile.lref
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\MainWindow.baml
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.g.resources
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin_Puzzle_WPF.Properties.Resources.resources
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.csproj.GenerateResource.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.exe
+X:\Programas\Visual Studio\Projects\Genshin Puzzle WPF\Genshin Puzzle WPF\obj\Debug\Genshin Puzzle WPF.pdb

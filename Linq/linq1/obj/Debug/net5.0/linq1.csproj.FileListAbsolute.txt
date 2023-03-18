@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.exe
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.deps.json
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.dll
+X:\Programas\Visual Studio\Projects\linq1\linq1\bin\Debug\net5.0\linq1.pdb
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.dll
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\refint\linq1.dll
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.pdb
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\linq1.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\linq1\linq1\obj\Debug\net5.0\ref\linq1.dll

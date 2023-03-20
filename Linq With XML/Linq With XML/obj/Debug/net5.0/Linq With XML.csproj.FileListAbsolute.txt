@@ -1,0 +1,16 @@
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.exe
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.deps.json
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.runtimeconfig.json
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.runtimeconfig.dev.json
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.dll
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\bin\Debug\net5.0\Linq With XML.pdb
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.csproj.AssemblyReference.cache
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.AssemblyInfoInputs.cache
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.AssemblyInfo.cs
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.csproj.CoreCompileInputs.cache
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.dll
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\refint\Linq With XML.dll
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.pdb
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\Linq With XML.genruntimeconfig.cache
+X:\Programas\Visual Studio\Projects\Linq With XML\Linq With XML\obj\Debug\net5.0\ref\Linq With XML.dll
